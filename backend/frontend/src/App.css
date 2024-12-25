@@ -1,0 +1,12 @@
+#sidebar
+{
+    width: 120px; 
+    height: 100vh;
+    border-radius: 10px;
+}
+
+#item-link
+{
+    text-decoration: none;
+    padding-left: 10px;
+}
